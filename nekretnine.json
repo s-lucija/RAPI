@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "naziv": "Stan u centru Rijeke",
+    "lokacija": "Centar",
+    "adresa": "Korzo 12, Rijeka",
+    "cijena": 185000.00,
+    "opis": "Dvosoban stan u samom centru Rijeke, blizina trgovina, restorana i javnog prijevoza."
+  },
+  {
+    "id": 2,
+    "naziv": "Stan na Trsatu",
+    "lokacija": "Trsat",
+    "adresa": "Ulica Slavka Krautzeka 45, Rijeka",
+    "cijena": 210000.00,
+    "opis": "Moderan stan na Trsatu s pogledom na grad, blizina kampusa i šetnica."
+  },
+  {
+    "id": 3,
+    "naziv": "Stan za obitelj - Zamet",
+    "lokacija": "Zamet",
+    "adresa": "Bože Vidasa 7, Rijeka",
+    "cijena": 165000.00,
+    "opis": "Prostran stan u mirnom dijelu Zameta, idealan za obitelj."
+  },
+  {
+    "id": 4,
+    "naziv": "Apartman blizu mora - Kantrida",
+    "lokacija": "Kantrida",
+    "adresa": "Liburnijska ulica 28, Rijeka",
+    "cijena": 245000.00,
+    "opis": "Apartman u blizini mora i plaža, odličan za turistički najam."
+  },
+  {
+    "id": 5,
+    "naziv": "Manji stan - Pećine",
+    "lokacija": "Pećine",
+    "adresa": "Šetalište XIII. divizije 32, Rijeka",
+    "cijena": 195000.00,
+    "opis": "Jednosoban stan blizu mora i šetnice, atraktivna lokacija."
+  }
+]
